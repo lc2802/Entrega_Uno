@@ -1,6 +1,6 @@
 # API de Productos y Carritos
 
-Esta API permite realizar operaciones CRUD (crear, leer, actualizar, eliminar) para productos y carritos.
+Esta API permite realizar operaciones CRUD (crear, leer, actualizar, eliminar) productos y carritos de productos.
 
 ### Endpoints ###
 
@@ -82,12 +82,12 @@ Esta API permite realizar operaciones CRUD (crear, leer, actualizar, eliminar) p
 
 ## Instalación
 
-1. Clona el repositorio.
-2. Instala las dependencias:
+1. Cloná el repositorio.
+2. Instalá las dependencias:
    ```bash
    npm install
    ```
-3. Inicia el servidor:
+3. Iniciá el servidor:
    ```bash
    node api.js
    ```
